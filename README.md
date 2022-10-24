@@ -1,5 +1,5 @@
-# dio-live-dynamodb
-Repositório para o live coding do dia 30/09/2021 sobre o Amazon DynamoDB
+# dio-dynamodb
+Criação de Base de Dados NoSQL AWS DynamoDB
 
 ### Serviço utilizado
   - Amazon DynamoDB
